@@ -21,7 +21,7 @@ Our team includes:
 
 We are proud of our successful participation in the **CheckThat! Lab at CLEF 2025**. Our work on multilingual claim normalization stands out for its effectiveness across a wide array of languages.
 
-*   **(AKCIT-FN at CheckThat! 2025: Switching Fine-Tuned SLMs and LLM Prompting for Multilingual Claim Normalization)**
+*   **AKCIT-FN at CheckThat! 2025: Switching Fine-Tuned SLMs and LLM Prompting for Multilingual Claim Normalization**
     *   In this paper, we detail our hybrid model that achieved **top-three positions in 15 of the 20 languages** in the competition.
     *   Our LLM-based zero-shot strategy proved highly effective, securing second place in five of the seven languages that had no prior training data.
     *   **[Read the full paper here](https://ceur-ws.org/Vol-4038/paper_79.pdf)**

@@ -12,10 +12,9 @@ This initiative is part of the broader project, "Computational Techniques for Mu
 
 Our team includes:
 
-*   **Prof. Arlindo Galvão** (Project Lead)
-*   4 AI Bachelor's Students from UFG: 
-*   1 Computer Science Master's Student
-
+*   4 [AI Bachelor](https://inteligenciaartificial.inf.ufg.br/)'s Students from UFG:  [@Fabrycio-Nakano](https://github.com/Fabrycio-Nakano), [@kauandivino](https://github.com/kauandivino),[@Maykon](https://github.com/MaykonAdriell) e [victoremanuelgo](https://github.com/victoremanuelgo).
+*   1 Computer Science Master's Student: [ju-resplande](https://github.com/ju-resplande)
+*   Project Lead: Prof. Arlindo Galvão
 ---
 
 ### 🏆 Publications & Achievements

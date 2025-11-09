@@ -4,7 +4,7 @@
 
 We are a research team from the [Advanced Knowledge Center in Immersive Technologies (AKCIT)](https://akcit.ufg.br/pdi/tecnicas-computacionais-seguranca-privacidade-dados-multimodais) at the Federal University of Goiás (UFG). Our work is dedicated to combating misinformation by developing advanced computational techniques for fact-checking.
 
-This initiative is part of the broader project, "Computational Techniques for Multimodal Data Security and Privacy", running from July 2024 to December 2025.
+This initiative is part of the broader project, "[Computational Techniques for Multimodal Data Security and Privacy](https://akcit.ufg.br/pdi/tecnicas-computacionais-seguranca-privacidade-dados-multimodais)", running from July 2024 to December 2025.
 
 ---
 

@@ -19,13 +19,18 @@ Our team includes:
 
 ### 🏆 Publications & Achievements
 
-We are proud of our successful participation in the **CheckThat! Lab at CLEF 2025**. Our work on multilingual claim normalization stands out for its effectiveness across a wide array of languages.
 
-*   **AKCIT-FN at CheckThat! 2025: Switching Fine-Tuned SLMs and LLM Prompting for Multilingual Claim Normalization**
-    *   In this paper, we detail our hybrid model that achieved **top-three positions in 15 of the 20 languages** in the competition.
-    *   Our LLM-based zero-shot strategy proved highly effective, securing second place in five of the seven languages that had no prior training data.
-    *   **[Read the full paper here](https://ceur-ws.org/Vol-4038/paper_79.pdf)**
-    *   Our implementation artifacts are publicly available on [GitHub](https://github.com/ju-resplande/checkthat2025_normalization).
+#### AKCIT-FN at CheckThat! 2025: Switching Fine-Tuned SLMs and LLM Prompting for Multilingual Claim Normalization
+*   In this paper, we detail our hybrid model that achieved **top-three positions in 15 of the 20 languages** in the competition.
+*   Our LLM-based zero-shot strategy proved highly effective, securing second place in five of the seven languages that had no prior training data.
+* **Conference:** CheckThat! Lab at CLEF 2025
+* **Links:** [📄 **Read the Paper**](https://ceur-ws.org/Vol-4038/paper_79.pdf) | [💻 **View Code**](https://github.com/AKCIT-FN/checkthat2025_normalization)
+
+#### Portuguese Automated Fact-Checking: Data Enrichment and Analysis
+* This work addresses the resource gap in Portuguese Automated Fact-Checking (AFC).
+* We introduce a novel pipeline to systematically **enrich misinformation datasets with external web evidence** 🔎, enhancing their reliability and verifiability.
+* **Conference:** 1st Workshop on Fact-Checking and Trustworthiness (FEVER 2025)
+* **Links:** [📄 **Read the Paper**](https://aclanthology.org/2025.fever-1.3/) | [💻 **View Code**](https://github.com/AKCIT-FN/pt_afc)
 
 ### 🙏 Acknowledgement
 
